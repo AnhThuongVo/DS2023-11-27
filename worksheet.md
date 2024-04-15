@@ -1,5 +1,4 @@
-# 12/04 Worksheet: Problem Spaces & NP Completeness
-## Initial due date: 12/04
+# Problem Spaces & NP Completeness
 Collaborators:
 
 Answer the below questions, and make sure that you commit to your own branch.
